@@ -1,0 +1,238 @@
+[
+    {
+        "name": "Coins",
+        "type": "consumable",
+        "img": "images/money/coin.png",
+        "codes": "coins",
+        "increment": 5
+    },
+    {
+        "name": "Bills",
+        "type": "consumable",
+        "img": "images/money/bill.png",
+        "codes": "bills",
+        "increment": 5
+    },
+    {
+        "name": "Gold Bars",
+        "type": "consumable",
+        "img": "images/money/goldbar.png",
+        "codes": "goldbars",
+        "increment": 1
+    },
+    {
+        "name": "Sapphires",
+        "type": "consumable",
+        "img": "images/money/sapphire",
+        "codes": "images/money/sapphire.png",
+        "increment": 1
+    },
+    {
+        "name": "Emeralds",
+        "type": "consumable",
+        "img": "images/money/emerald.png",
+        "codes": "images/money/emeralds.png",
+        "increment": 1
+    },
+    {
+        "name": "Rubies",
+        "type": "consumable",
+        "img": "images/money/ruby.png",
+        "codes": "rubies",
+        "increment": 1
+    },
+    {
+        "name": "Diamonds",
+        "type": "consumable",
+        "img": "images/money/diamond.png",
+        "codes": "diamonds",
+        "increment": 1
+    },
+    {
+        "name": "Gold Diamonds",
+        "type": "consumable",
+        "img": "images/money/golddiamond.png",
+        "codes": "golddiamonds",
+        "increment": 1
+    },
+    {
+        "name": "Mario's Hat",
+        "type": "toggle",
+        "img": "images/mario/hat.png",
+        "codes": "mariohat"
+    },
+    {
+        "name": "Mario's Letter",
+        "type": "toggle",
+        "img": "images/mario/letter.png",
+        "codes": "marioletter"
+    },
+    {
+        "name": "Mario's Star",
+        "type": "toggle",
+        "img": "images/mario/star.png",
+        "codes": "mariostar"
+    },
+    {
+        "name": "Mario's Glove",
+        "type": "toggle",
+        "img": "images/mario/glove.png",
+        "codes": "marioglove"
+    },
+    {
+        "name": "Mario's Shoe",
+        "type": "toggle",
+        "img": "images/mario/shoe.png",
+        "codes": "marioshoe"
+    },
+    {
+        "name": "Neville",
+        "type": "toggle",
+        "img": "images/portraitghosts/neville.png",
+        "codes": "neville"
+    },
+    {
+        "name": "Lydia",
+        "type": "toggle",
+        "img": "images/portraitghosts/lydia.png",
+        "codes": "lydia"
+    },
+    {
+        "name": "Chauncey",
+        "type": "toggle",
+        "img": "images/portraitghosts/chauncey.png",
+        "codes": "chauncey"
+    },
+    {
+        "name": "The Dancing Whirlindas",
+        "type": "toggle",
+        "img": "images/portraitghosts/whirlindas.png",
+        "codes": "whirlindas"
+    },
+    {
+        "name": "Shivers",
+        "type": "toggle",
+        "img": "images/portraitghosts/shivers.png",
+        "codes": "shivers"
+    },
+    {
+        "name": "Melody Pianissima",
+        "type": "toggle",
+        "img": "images/portraitghosts/melody.png",
+        "codes": "melody"
+    },
+    {
+        "name": "Madame Clairvoya",
+        "type": "toggle",
+        "img": "images/portraitghosts/clairvoya.png",
+        "codes": "clairvoya"
+    },
+    {
+        "name": "Mr. Luggs",
+        "type": "toggle",
+        "img": "images/portraitghosts/luggs.png",
+        "codes": "luggs"
+    },
+    {
+        "name": "Spooky",
+        "type": "toggle",
+        "img": "images/portraitghosts/spooky.png",
+        "codes": "spooky"
+    },
+    {
+        "name": "Bogmire",
+        "type": "toggle",
+        "img": "images/portraitghosts/bogmire.png",
+        "codes": "bogmire"
+    },
+    {
+        "name": "Biff Atlas",
+        "type": "toggle",
+        "img": "images/portraitghosts/biff.png",
+        "codes": "biff"
+    },
+    {
+        "name": "Miss Petunia",
+        "type": "toggle",
+        "img": "images/portraitghosts/petunia.png",
+        "codes": "petunia"
+    },
+    {
+        "name": "Nana",
+        "type": "toggle",
+        "img": "images/portraitghosts/nana.png",
+        "codes": "nana"
+    },
+    {
+        "name": "Slim Bankshot",
+        "type": "toggle",
+        "img": "images/portraitghosts/slim.png",
+        "codes": "slim"
+    },
+    {
+        "name": "Henry & Orville",
+        "type": "toggle",
+        "img": "images/portraitghosts/twins.png",
+        "codes": "twins"
+    },
+    {
+        "name": "Boolosus",
+        "type": "toggle",
+        "img": "images/portraitghosts/boolosus.png",
+        "codes": "boolosus"
+    },
+    {
+        "name": "Jarvus",
+        "type": "toggle",
+        "img": "images/portraitghosts/jarvus.png",
+        "codes": "jarvus"
+    },
+    {
+        "name": "Sue Pea",
+        "type": "toggle",
+        "img": "images/portraitghosts/sue.png",
+        "codes": "sue"
+    },
+    {
+        "name": "Vincent Van Gore",
+        "type": "toggle",
+        "img": "images/portraitghosts/vangore.png",
+        "codes": "vangore"
+    },
+    {
+        "name": "Uncle Grimmly",
+        "type": "toggle",
+        "img": "images/portraitghosts/grimmly.png",
+        "codes": "grimmly"
+    },
+    {
+        "name": "The Clockwork Soldiers",
+        "type": "toggle",
+        "img": "images/portraitghosts/soldiers.png",
+        "codes": "soldiers"
+    },
+    {
+        "name": "Sir Weston",
+        "type": "toggle",
+        "img": "images/portraitghosts/weston.png",
+        "codes": "weston"
+    },
+    {
+        "name": "Fire Medallion",
+        "toggle": "toggle",
+        "img": "images/medallions/fire.png",
+        "codes": "firemedallion"
+    },
+    {
+        "name": "Water Medallion",
+        "toggle": "toggle",
+        "img": "images/medallions/water.png",
+        "codes": "watermedallion"
+    },
+    {
+        "name": "Ice Medallion",
+        "toggle": "toggle",
+        "img": "images/medallions/ice.png",
+        "codes": "icemedallion"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Basement",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "images/maps/basement.png"
+    },
+    {
+        "name": "Floor 1",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "images/maps/floor1.png"
+    },
+    {
+        "name": "Floor 2",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "images/maps/floor2.png"
+    },
+    {
+        "name": "Floor 3",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "images/maps/floor3.png"
+    },
+    {
+        "name": "Roof",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "images/maps/roof.png"
+    }
+]
