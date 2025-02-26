@@ -1,3 +1,4 @@
+// MONEY
 [
     {
         "name": "Coins",
@@ -20,6 +21,29 @@
         "codes": "goldbars",
         "increment": 1
     },
+    /*
+    {
+        "name": "Small Pearls",
+        "type": "consumable",
+        "img": "images/money/smallpearl.png",
+        "codes": "smallpearls",
+        "increment": 1
+    },
+    {
+        "name": "Medium Pearls",
+        "type": "consumable",
+        "img": "images/money/medpearl.png",
+        "codes": "mediumpearls",
+        "increment": 1
+    },
+    {
+        "name": "Big Pearls",
+        "type": "consumable",
+        "img": "images/money/bigpearl.png",
+        "codes": "bigpearls",
+        "increment": 1
+    },
+    */
     {
         "name": "Sapphires",
         "type": "consumable",
@@ -55,6 +79,8 @@
         "codes": "golddiamonds",
         "increment": 1
     },
+
+    // MARIO ITEMS
     {
         "name": "Mario's Hat",
         "type": "toggle",
@@ -85,6 +111,8 @@
         "img": "images/mario/shoe.png",
         "codes": "marioshoe"
     },
+
+    // PORTRAIT GHOSTS
     {
         "name": "Neville",
         "type": "toggle",
@@ -216,7 +244,9 @@
         "type": "toggle",
         "img": "images/portraitghosts/weston.png",
         "codes": "weston"
-    },
+    }
+
+    // MEDALLIONS
     {
         "name": "Fire Medallion",
         "toggle": "toggle",

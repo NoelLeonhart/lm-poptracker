@@ -1,0 +1,3178 @@
+[
+  {
+    "name": "Overview",
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "children": [
+      {
+        "name": "Basement",
+        "sections": [
+          {
+            "ref": "Basement/Breaker Box/Breaker Box",
+            "name": "Breaker Box"
+          },
+          {
+            "ref": "Basement/King Boo/King Boo",
+            "name": "King Boo"
+          },
+          {
+            "ref": "Basement/Cellar/Clear Chest",
+            "name": "Cellar Clear Chest"
+          },
+          {
+            "ref": "Basement/Pipe Room/Clear Chest",
+            "name": "Pipe Room Clear Chest"
+          },
+          {
+            "ref": "Basement/Cold Storage/Clear Chest",
+            "name": "Cold Storage Clear Chest"
+          },
+          {
+            "ref": "Basement/Breaker Room/Clear Chest",
+            "name": "Breaker Room Clear Chest"
+          },
+          {
+            "ref": "Basement/Well/The Key",
+            "name": "The Well Key"
+          },
+          {
+            "ref": "Basement/Well/Lantern",
+            "name": "Well Lantern"
+          },
+          {
+            "ref": "Basement/Breaker Room/Ceiling Light",
+            "name": "Breaker Room Ceiling Light"
+          },
+          {
+            "ref": "Basement/Breaker Room/Metal Drum L",
+            "name": "Breaker Room Metal Drum L"
+          },
+          {
+            "ref": "Basement/Breaker Room/Metal Drum R",
+            "name": "Breaker Room Metal Drum R"
+          },
+          {
+            "ref": "Basement/Breaker Room/Barrel (bottom row, closest to back Wall)",
+            "name": "Breaker Room Barrel (bottom row, closest to back Wall)"
+          },
+          {
+            "ref": "Basement/Breaker Room/Barrel (bottom row, second from back Wall)",
+            "name": "Breaker Room Barrel (bottom row, second from back Wall)"
+          },
+          {
+            "ref": "Basement/Breaker Room/Barrel (bottom row, third from back Wall)",
+            "name": "Breaker Room Barrel (bottom row, third from back Wall)"
+          },
+          {
+            "ref": "Basement/Breaker Room/Barrel (bottom row, third from 4th Wall)",
+            "name": "Breaker Room Barrel (bottom row, third from 4th Wall)"
+          },
+          {
+            "ref": "Basement/Breaker Room/Barrel (bottom row, second from 4th Wall)",
+            "name": "Breaker Room Barrel (bottom row, second from 4th Wall)"
+          },
+          {
+            "ref": "Basement/Breaker Room/Barrel (bottom row, closest to 4th Wall)",
+            "name": "Breaker Room Barrel (bottom row, closest to 4th Wall)"
+          },
+          {
+            "ref": "Basement/Breaker Room/Barrel (top row, closest to 4th Wall)",
+            "name": "Breaker Room Barrel (top row, closest to 4th Wall)"
+          },
+          {
+            "ref": "Basement/Breaker Room/Barrel (top row, second from 4th Wall)",
+            "name": "Breaker Room Barrel (top row, second from 4th Wall)"
+          },
+          {
+            "ref": "Basement/Breaker Room/Barrel (top row, middle)",
+            "name": "Breaker Room Barrel (top row, middle)"
+          },
+          {
+            "ref": "Basement/Breaker Room/Barrel (top row, second from back Wall)",
+            "name": "Breaker Room Barrel (top row, second from back Wall)"
+          },
+          {
+            "ref": "Basement/Breaker Room/Barrel (top row, closest to back Wall)",
+            "name": "Breaker Room Barrel (top row, closest to back Wall)"
+          },
+          {
+            "ref": "Basement/Cellar/Ceiling Light",
+            "name": "Cellar Ceiling Light"
+          },
+          {
+            "ref": "Basement/Cellar/Crate (along back wall)",
+            "name": "Cellar Crate (along back wall)"
+          },
+          {
+            "ref": "Basement/Cellar/Center Shelf Boxes",
+            "name": "Cellar Center Shelf Boxes"
+          },
+          {
+            "ref": "Basement/Cellar/Center High Shelf",
+            "name": "Cellar Center High Shelf"
+          },
+          {
+            "ref": "Basement/Cellar/Center Middle Shelf",
+            "name": "Cellar Center Middle Shelf"
+          },
+          {
+            "ref": "Basement/Cellar/Center Low Shelf",
+            "name": "Cellar Center Low Shelf"
+          },
+          {
+            "ref": "Basement/Cellar/Right Shelf Boxes",
+            "name": "Cellar Right Shelf Boxes"
+          },
+          {
+            "ref": "Basement/Cellar/Right High Shelf",
+            "name": "Cellar Right High Shelf"
+          },
+          {
+            "ref": "Basement/Cellar/Right Middle Shelf",
+            "name": "Cellar Right Middle Shelf"
+          },
+          {
+            "ref": "Basement/Cellar/Right Low Shelf",
+            "name": "Cellar Right Low Shelf"
+          },
+          {
+            "ref": "Basement/Cellar/Back Candle",
+            "name": "Cellar Back Candle"
+          },
+          {
+            "ref": "Basement/Cellar/Left Candle",
+            "name": "Cellar Left Candle"
+          },
+          {
+            "ref": "Basement/Cellar/C Shelf",
+            "name": "Cellar C Shelf"
+          },
+          {
+            "ref": "Basement/Cellar/R Shelf",
+            "name": "Cellar R Shelf"
+          },
+          {
+            "ref": "Basement/Cold Storage/Barrel L",
+            "name": "Cold Storage Barrel L"
+          },
+          {
+            "ref": "Basement/Cold Storage/Barrel R",
+            "name": "Cold Storage Barrel R"
+          },
+          {
+            "ref": "Basement/Cold Storage/Crate (closest to Sir Weston)",
+            "name": "Cold Storage Crate (closest to Sir Weston)"
+          },
+          {
+            "ref": "Basement/Cold Storage/Crate (closest to 4th Wall)",
+            "name": "Cold Storage Crate (closest to 4th Wall)"
+          },
+          {
+            "ref": "Basement/Cold Storage/Rear Shelf",
+            "name": "Cold Storage Rear Shelf"
+          },
+          {
+            "ref": "Basement/Cold Storage/Front Shelf",
+            "name": "Cold Storage Front Shelf"
+          },
+          {
+            "ref": "Basement/Cold Storage/Gas Burner",
+            "name": "Cold Storage Gas Burner"
+          },
+          {
+            "ref": "Basement/Cold Storage/Weston's Camp Gear (Cold Storage)",
+            "name": "Weston's Camp Gear (Cold Storage)"
+          },
+          {
+            "ref": "Basement/Pipe Room/Ice Barrel",
+            "name": "Pipe Room Ice Barrel"
+          },
+          {
+            "ref": "Basement/Pipe Room/Crate",
+            "name": "Pipe Room Crate"
+          },
+          {
+            "ref": "Basement/Pipe Room/Bucket",
+            "name": "Pipe Room Bucket"
+          },
+          {
+            "ref": "Basement/Basement Stairwell/Wall Lamp",
+            "name": "Basement Stairwell Wall Lamp"
+          },
+          {
+            "ref": "Basement/Basement Stairwell/Hanging Light",
+            "name": "Basement Stairwell Hanging Light"
+          },
+          {
+            "ref": "Basement/Secret Altar/Brazier (near front, closest to 4th Wall)",
+            "name": "Secret Altar Brazier (near front, closest to 4th Wall)"
+          },
+          {
+            "ref": "Basement/Secret Altar/Brazier (near front, away from 4th Wall)",
+            "name": "Secret Altar Brazier (near front, away from 4th Wall)"
+          },
+          {
+            "ref": "Basement/Secret Altar/C Chandelier",
+            "name": "Secret Altar C Chandelier"
+          },
+          {
+            "ref": "Basement/Secret Altar/L Candles",
+            "name": "Secret Altar L Candles"
+          },
+          {
+            "ref": "Basement/Secret Altar/R Candles",
+            "name": "Secret Altar R Candles"
+          },
+          {
+            "ref": "Basement/Breaker Room/Speedy Spirit",
+            "name": "Breaker Room Speedy Spirit"
+          },
+          {
+            "ref": "Basement/Cellar/Speedy Spirit",
+            "name": "Cellar Speedy Spirit"
+          },
+          {
+            "ref": "Basement/Breaker Room/Light On",
+            "name": "Breaker Room Light On"
+          },
+          {
+            "ref": "Basement/Cellar/Light On",
+            "name": "Cellar Light On"
+          },
+          {
+            "ref": "Basement/Pipe Room/Light On",
+            "name": "Pipe Room Light On"
+          },
+          {
+            "ref": "Basement/Cold Storage/Light On",
+            "name": "Cold Storage Light On"
+          },
+          {
+            "ref": "Basement/Well/Light On",
+            "name": "Well Light On"
+          },
+          {
+            "ref": "Basement/Basement Stairwell/Light On",
+            "name": "Basement Stairwell Light On"
+          },
+          {
+            "ref": "Basement/Breaker Room/Visited",
+            "name": "Breaker Room Visited"
+          },
+          {
+            "ref": "Basement/Cellar/Visited",
+            "name": "Cellar Visited"
+          },
+          {
+            "ref": "Basement/Pipe Room/Visited",
+            "name": "Pipe Room Visited"
+          },
+          {
+            "ref": "Basement/Cold Storage/Visited",
+            "name": "Cold Storage Visited"
+          },
+          {
+            "ref": "Basement/Well/Visited",
+            "name": "Well Visited"
+          },
+          {
+            "ref": "Basement/Basement Stairwell/Visited",
+            "name": "Basement Stairwell Visited"
+          },
+          {
+            "ref": "Basement/Basement Hallway/Visited",
+            "name": "Basement Hallway Visited"
+          },
+          {
+            "ref": "Basement/Spade Hallway/Visited",
+            "name": "Spade Hallway Visited"
+          },
+          {
+            "ref": "Basement/Breaker Room/Boo",
+            "name": "Breaker Room Boo"
+          },
+          {
+            "ref": "Basement/Cellar/Boo",
+            "name": "Cellar Boo"
+          },
+          {
+            "ref": "Basement/Pipe Room/Boo",
+            "name": "Pipe Room Boo"
+          },
+          {
+            "ref": "Basement/Cold Storage/Boo",
+            "name": "Cold Storage Boo"
+          }
+        ]
+      },
+      {
+        "name": "Floor 1",
+        "sections": [
+          {
+            "ref": "Floor 1/Luigi's Courage/Luigi's Courage",
+            "name": "Luigi's Courage"
+          },
+          {
+            "ref": "Floor 1/Foyer/Ghost Key",
+            "name": "Ghost Foyer Key"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Toilet",
+            "name": "1F Washroom Toilet"
+          },
+          {
+            "ref": "Floor 1/Fortune Teller/Candles",
+            "name": "Fortune Teller Candles"
+          },
+          {
+            "ref": "Floor 1/Laundry/Washing Machine",
+            "name": "Laundry Washing Machine"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Large Chest R",
+            "name": "Hidden Room Large Chest R"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Small Chest R Shelf",
+            "name": "Hidden Room Small Chest R Shelf"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Small Chest L Floor",
+            "name": "Hidden Room Small Chest L Floor"
+          },
+          {
+            "ref": "Floor 1/Rec Room/Treadmill Key",
+            "name": "Rec Room Treadmill Key"
+          },
+          {
+            "ref": "Floor 1/Courtyard/Birdhouse",
+            "name": "Courtyard Birdhouse"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Clear Chest",
+            "name": "Hidden Room Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Mirror Room/Clear Chest",
+            "name": "Mirror Room Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Kitchen/Clear Chest",
+            "name": "Kitchen Clear Chest"
+          },
+          {
+            "ref": "Floor 1/1F Bathroom/Shelf Key",
+            "name": "1F Bathroom Shelf Key"
+          },
+          {
+            "ref": "Floor 1/Courtyard/Clear Chest",
+            "name": "Courtyard Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Projection Room/Clear Chest",
+            "name": "Projection Room Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Ballroom/Clear Chest",
+            "name": "Ballroom Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Laundry/Clear Chest",
+            "name": "Laundry Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/Clear Chest",
+            "name": "Billiards Room Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Rec Room/Clear Chest",
+            "name": "Rec Room Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Clear Chest",
+            "name": "Conservatory Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Clear Chest",
+            "name": "Dining Room Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Butler/Clear Chest",
+            "name": "Butler Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Fortune Teller/Clear Chest",
+            "name": "Fortune Teller Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Graveyard/Clear Chest",
+            "name": "Graveyard Clear Chest"
+          },
+          {
+            "ref": "Floor 1/Foyer/Toad",
+            "name": "Foyer Toad"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Toad",
+            "name": "1F Washroom Toad"
+          },
+          {
+            "ref": "Floor 1/Courtyard/Toad",
+            "name": "Courtyard Toad"
+          },
+          {
+            "ref": "Floor 1/Courtyard/SW Plant",
+            "name": "Courtyard SW Plant"
+          },
+          {
+            "ref": "Floor 1/Courtyard/NW Plant",
+            "name": "Courtyard NW Plant"
+          },
+          {
+            "ref": "Floor 1/Courtyard/NE Plant",
+            "name": "Courtyard NE Plant"
+          },
+          {
+            "ref": "Floor 1/Courtyard/SE Plant",
+            "name": "Courtyard SE Plant"
+          },
+          {
+            "ref": "Floor 1/Foyer/Dresser",
+            "name": "Foyer Dresser"
+          },
+          {
+            "ref": "Floor 1/Heart Door Lamp/Heart Door Lamp",
+            "name": "Heart Door Lamp"
+          },
+          {
+            "ref": "Floor 1/Foyer/Chandelier",
+            "name": "Foyer Chandelier"
+          },
+          {
+            "ref": "Floor 1/Foyer/Mirror",
+            "name": "Foyer Mirror"
+          },
+          {
+            "ref": "Floor 1/Foyer/Upper R Vase",
+            "name": "Upper Foyer R Vase"
+          },
+          {
+            "ref": "Floor 1/Foyer/Upper L Vase",
+            "name": "Upper Foyer L Vase"
+          },
+          {
+            "ref": "Floor 1/Foyer/R Candlestick",
+            "name": "Foyer R Candlestick"
+          },
+          {
+            "ref": "Floor 1/Foyer/L Candlestick",
+            "name": "Foyer L Candlestick"
+          },
+          {
+            "ref": "Floor 1/1F Hallway/Front Vase L",
+            "name": "1F Hallway Front Vase L"
+          },
+          {
+            "ref": "Floor 1/1F Hallway/Front Vase C",
+            "name": "1F Hallway Front Vase C"
+          },
+          {
+            "ref": "Floor 1/1F Hallway/Front Vase R",
+            "name": "1F Hallway Front Vase R"
+          },
+          {
+            "ref": "Floor 1/1F Hallway/Rear Vase L",
+            "name": "1F Hallway Rear Vase L"
+          },
+          {
+            "ref": "Floor 1/1F Hallway/Rear Vase C",
+            "name": "1F Hallway Rear Vase C"
+          },
+          {
+            "ref": "Floor 1/1F Hallway/Rear Vase R",
+            "name": "1F Hallway Rear Vase R"
+          },
+          {
+            "ref": "Floor 1/1F Hallway/Painting",
+            "name": "1F Hallway Painting"
+          },
+          {
+            "ref": "Floor 1/1F Bathroom/Sink",
+            "name": "1F Bathroom Sink"
+          },
+          {
+            "ref": "Floor 1/1F Bathroom/Bathtub",
+            "name": "1F Bathroom Bathtub"
+          },
+          {
+            "ref": "Floor 1/1F Bathroom/Shelf",
+            "name": "1F Bathroom Shelf"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Toilet Paper",
+            "name": "1F Washroom Toilet Paper"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Sink",
+            "name": "1F Washroom Sink"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Mirror",
+            "name": "1F Washroom Mirror"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Picture",
+            "name": "1F Washroom Picture"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Radiator",
+            "name": "1F Washroom Radiator"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Cabinet",
+            "name": "1F Washroom Cabinet"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Light",
+            "name": "1F Washroom Light"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Water Tank (above Toilet)",
+            "name": "1F Washroom Water Tank (above Toilet)"
+          },
+          {
+            "ref": "Floor 1/Ballroom/West Chandelier",
+            "name": "Ballroom West Chandelier"
+          },
+          {
+            "ref": "Floor 1/Ballroom/East Chandelier",
+            "name": "Ballroom East Chandelier"
+          },
+          {
+            "ref": "Floor 1/Ballroom/Portrait",
+            "name": "Ballroom Portrait"
+          },
+          {
+            "ref": "Floor 1/Ballroom/Chair L (closest to Left Wall)",
+            "name": "Ballroom Chair L (closest to Left Wall)"
+          },
+          {
+            "ref": "Floor 1/Ballroom/Chair L (furthest from Left Wall)",
+            "name": "Ballroom Chair L (furthest from Left Wall)"
+          },
+          {
+            "ref": "Floor 1/Ballroom/Chair R (furthest from Right Wall)",
+            "name": "Ballroom Chair R (furthest from Right Wall)"
+          },
+          {
+            "ref": "Floor 1/Ballroom/Chair R (closest from Right Wall)",
+            "name": "Ballroom Chair R (closest from Right Wall)"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Bucket",
+            "name": "Storage Room Bucket"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Ceiling Light",
+            "name": "Storage Room Ceiling Light"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Chair Stack",
+            "name": "Storage Room Chair Stack"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Crate (bottom row, L)",
+            "name": "Storage Room Crate (bottom row, L)"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Crate (bottom row, back L)",
+            "name": "Storage Room Crate (bottom row, back L)"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Crate (bottom row, back R)",
+            "name": "Storage Room Crate (bottom row, back R)"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Crate (bottom row, C)",
+            "name": "Storage Room Crate (bottom row, C)"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Crate (bottom row, R)",
+            "name": "Storage Room Crate (bottom row, R)"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Crate (middle row, R)",
+            "name": "Storage Room Crate (middle row, R)"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Crate (middle row, L)",
+            "name": "Storage Room Crate (middle row, L)"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Crate (top row)",
+            "name": "Storage Room Crate (top row)"
+          },
+          {
+            "ref": "Floor 1/Fortune Teller's Room/West Dresser",
+            "name": "Fortune Teller's Room West Dresser"
+          },
+          {
+            "ref": "Floor 1/Fortune Teller's Room/East Dresser",
+            "name": "Fortune Teller's Room East Dresser"
+          },
+          {
+            "ref": "Floor 1/Fortune Teller's Room/West Candlestick",
+            "name": "Fortune Teller's Room West Candlestick"
+          },
+          {
+            "ref": "Floor 1/Fortune Teller's Room/East Candlestick",
+            "name": "Fortune Teller's Room East Candlestick"
+          },
+          {
+            "ref": "Floor 1/Fortune Teller's Chair/Fortune Teller's Chair",
+            "name": "Fortune Teller's Chair"
+          },
+          {
+            "ref": "Floor 1/Fortune-Teller's Room/Clairvoya's Crystal Ball (Fortune-Teller's Room)",
+            "name": "Clairvoya's Crystal Ball (Fortune-Teller's Room)"
+          },
+          {
+            "ref": "Floor 1/Fortune Teller's Room/West Pillar",
+            "name": "Fortune Teller's Room West Pillar"
+          },
+          {
+            "ref": "Floor 1/Fortune Teller's Room/East Pillar",
+            "name": "Fortune Teller's Room East Pillar"
+          },
+          {
+            "ref": "Floor 1/Mirror Room/Drawer",
+            "name": "Mirror Room Drawer"
+          },
+          {
+            "ref": "Floor 1/Mirror Room/Brazier",
+            "name": "Mirror Room Brazier"
+          },
+          {
+            "ref": "Floor 1/Mirror Room/West Candlestick",
+            "name": "Mirror Room West Candlestick"
+          },
+          {
+            "ref": "Floor 1/Mirror Room/East Candlestick",
+            "name": "Mirror Room East Candlestick"
+          },
+          {
+            "ref": "Floor 1/Mirror Room/West Chandelier",
+            "name": "Mirror Room West Chandelier"
+          },
+          {
+            "ref": "Floor 1/Mirror Room/East Chandelier",
+            "name": "Mirror Room East Chandelier"
+          },
+          {
+            "ref": "Floor 1/Mirror Room/Picture",
+            "name": "Mirror Room Picture"
+          },
+          {
+            "ref": "Floor 1/Laundry Room/Broom",
+            "name": "Laundry Room Broom"
+          },
+          {
+            "ref": "Floor 1/Laundry Room/Bucket",
+            "name": "Laundry Room Bucket"
+          },
+          {
+            "ref": "Floor 1/Laundry Room/Dustpan",
+            "name": "Laundry Room Dustpan"
+          },
+          {
+            "ref": "Floor 1/Laundry Room/Laundry Basket",
+            "name": "Laundry Room Laundry Basket"
+          },
+          {
+            "ref": "Floor 1/Laundry Room/Cabinet",
+            "name": "Laundry Room Cabinet"
+          },
+          {
+            "ref": "Floor 1/Laundry Room/Ceiling Light",
+            "name": "Laundry Room Ceiling Light"
+          },
+          {
+            "ref": "Floor 1/Laundry Room/West Soap Shelf",
+            "name": "Laundry Room West Soap Shelf"
+          },
+          {
+            "ref": "Floor 1/Laundry Room/East Soap Shelf",
+            "name": "Laundry Room East Soap Shelf"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Table",
+            "name": "Butler's Room Table"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Stool (candle on Top)",
+            "name": "Butler's Room Stool (candle on Top)"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Stool (near Sewing Machine)",
+            "name": "Butler's Room Stool (near Sewing Machine)"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Stool (middle table, R)",
+            "name": "Butler's Room Stool (middle table, R)"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Stool (middle table, C)",
+            "name": "Butler's Room Stool (middle table, C)"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Stool (close to Left Wall)",
+            "name": "Butler's Room Stool (close to Left Wall)"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Mop Bucket",
+            "name": "Butler's Room Mop Bucket"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Toilet Paper (near Hidden Room)",
+            "name": "Butler's Room Toilet Paper (near Hidden Room)"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Toilet Paper (near Mop n Bucket)",
+            "name": "Butler's Room Toilet Paper (near Mop n Bucket)"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Ceiling Light",
+            "name": "Butler's Room Ceiling Light"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Bucket",
+            "name": "Butler's Room Bucket"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Cabinet",
+            "name": "Butler's Room Cabinet"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Ironing Board",
+            "name": "Butler's Room Ironing Board"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Sewing Machine",
+            "name": "Butler's Room Sewing Machine"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/R Trophy",
+            "name": "Hidden Room R Trophy"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/L Trophy",
+            "name": "Hidden Room L Trophy"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/R Candlestick",
+            "name": "Hidden Room R Candlestick"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/L Candlestick",
+            "name": "Hidden Room L Candlestick"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Chandelier",
+            "name": "Hidden Room Chandelier"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Painting Middle C",
+            "name": "Hidden Room Painting Middle C"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Painting R",
+            "name": "Hidden Room Painting R"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Painting L",
+            "name": "Hidden Room Painting L"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Painting Middle L",
+            "name": "Hidden Room Painting Middle L"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Painting Middle R",
+            "name": "Hidden Room Painting Middle R"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Picture L",
+            "name": "Conservatory Picture L"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Picture C",
+            "name": "Conservatory Picture C"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Picture R (hangs Higher)",
+            "name": "Conservatory Picture R (hangs Higher)"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Picture R (hangs Lower)",
+            "name": "Conservatory Picture R (hangs Lower)"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Harp Chair",
+            "name": "Conservatory Harp Chair"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Cello Chair",
+            "name": "Conservatory Cello Chair"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Xylophone Music Stand",
+            "name": "Conservatory Xylophone Music Stand"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Harp Music Stand",
+            "name": "Conservatory Harp Music Stand"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Melody's Piano (Conservatory)",
+            "name": "Melody's Piano (Conservatory)"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Piano Bench",
+            "name": "Conservatory Piano Bench"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Ceiling Light",
+            "name": "Conservatory Ceiling Light"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Xylophone",
+            "name": "Conservatory Xylophone"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Cello",
+            "name": "Conservatory Cello"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Left Bongo",
+            "name": "Conservatory Left Bongo"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Right Bongo",
+            "name": "Conservatory Right Bongo"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Center Bongo",
+            "name": "Conservatory Center Bongo"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Harp",
+            "name": "Conservatory Harp"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Saxophone",
+            "name": "Conservatory Saxophone"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Cabinet",
+            "name": "Conservatory Cabinet"
+          },
+          {
+            "ref": "Floor 1/Dining Room/L Chair",
+            "name": "Dining Room L Chair"
+          },
+          {
+            "ref": "Floor 1/Dining Room/R Chair",
+            "name": "Dining Room R Chair"
+          },
+          {
+            "ref": "Floor 1/Dining Room/R China Hutch",
+            "name": "Dining Room R China Hutch"
+          },
+          {
+            "ref": "Floor 1/Dining Room/L Brazier",
+            "name": "Dining Room L Brazier"
+          },
+          {
+            "ref": "Floor 1/Dining Room/R Brazier",
+            "name": "Dining Room R Brazier"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Picture",
+            "name": "Dining Room Picture"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Table",
+            "name": "Dining Room Table"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Table Mess L (furthest Left)",
+            "name": "Dining Room Table Mess L (furthest Left)"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Table Mess L (near Luggs)",
+            "name": "Dining Room Table Mess L (near Luggs)"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Table Mess R (near Candles)",
+            "name": "Dining Room Table Mess R (near Candles)"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Table Mess R",
+            "name": "Dining Room Table Mess R"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Table Mess L (underneath Table)",
+            "name": "Dining Room Table Mess L (underneath Table)"
+          },
+          {
+            "ref": "Floor 1/Dining Room/R Candles and Plates",
+            "name": "Dining Room R Candles and Plates"
+          },
+          {
+            "ref": "Floor 1/Dining Room/L Candles",
+            "name": "Dining Room L Candles"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Mr' Lugg's Stool (Dining Room)",
+            "name": "Mr' Lugg's Stool (Dining Room)"
+          },
+          {
+            "ref": "Floor 1/Kitchen/Oven",
+            "name": "Kitchen Oven"
+          },
+          {
+            "ref": "Floor 1/Kitchen/China Hutch",
+            "name": "Kitchen China Hutch"
+          },
+          {
+            "ref": "Floor 1/Kitchen/L Food Shelf",
+            "name": "Kitchen L Food Shelf"
+          },
+          {
+            "ref": "Floor 1/Kitchen/R Food Shelf",
+            "name": "Kitchen R Food Shelf"
+          },
+          {
+            "ref": "Floor 1/Kitchen/Table",
+            "name": "Kitchen Table"
+          },
+          {
+            "ref": "Floor 1/Kitchen/Utensils Rack",
+            "name": "Kitchen Utensils Rack"
+          },
+          {
+            "ref": "Floor 1/Kitchen/Dishwasher",
+            "name": "Kitchen Dishwasher"
+          },
+          {
+            "ref": "Floor 1/Kitchen/L Ceiling Light",
+            "name": "Kitchen L Ceiling Light"
+          },
+          {
+            "ref": "Floor 1/Kitchen/R Ceiling Light",
+            "name": "Kitchen R Ceiling Light"
+          },
+          {
+            "ref": "Floor 1/Boneyard/Spooky's Dog Bowl (Boneyard)",
+            "name": "Spooky's Dog Bowl (Boneyard)"
+          },
+          {
+            "ref": "Floor 1/Boneyard/Faucet",
+            "name": "Boneyard Faucet"
+          },
+          {
+            "ref": "Floor 1/Boneyard/Sign",
+            "name": "Boneyard Sign"
+          },
+          {
+            "ref": "Floor 1/Graveyard/Downspout",
+            "name": "Graveyard Downspout"
+          },
+          {
+            "ref": "Floor 1/Graveyard/Bogmire's Tombstone (Graveyard)",
+            "name": "Bogmire's Tombstone (Graveyard)"
+          },
+          {
+            "ref": "Floor 1/Graveyard/L Brazier",
+            "name": "Graveyard L Brazier"
+          },
+          {
+            "ref": "Floor 1/Graveyard/R Brazier",
+            "name": "Graveyard R Brazier"
+          },
+          {
+            "ref": "Floor 1/Graveyard/Tombstone (near Tree stump)",
+            "name": "Graveyard Tombstone (near Tree stump)"
+          },
+          {
+            "ref": "Floor 1/Graveyard/Tombstone (back row, right side)",
+            "name": "Graveyard Tombstone (back row, right side)"
+          },
+          {
+            "ref": "Floor 1/Graveyard/Tombstone (center, right side)",
+            "name": "Graveyard Tombstone (center, right side)"
+          },
+          {
+            "ref": "Floor 1/Graveyard/Tombstone (far right near drain pipe)",
+            "name": "Graveyard Tombstone (far right near drain pipe)"
+          },
+          {
+            "ref": "Floor 1/Graveyard/Tombstone (left side, near bogmire)",
+            "name": "Graveyard Tombstone (left side, near bogmire)"
+          },
+          {
+            "ref": "Floor 1/Courtyard/Outhouse",
+            "name": "Courtyard Outhouse"
+          },
+          {
+            "ref": "Floor 1/Courtyard/Male Statue",
+            "name": "Courtyard Male Statue"
+          },
+          {
+            "ref": "Floor 1/Courtyard/Female Statue",
+            "name": "Courtyard Female Statue"
+          },
+          {
+            "ref": "Floor 1/Courtyard/R Lamppost",
+            "name": "Courtyard R Lamppost"
+          },
+          {
+            "ref": "Floor 1/Courtyard/L Lamppost",
+            "name": "Courtyard L Lamppost"
+          },
+          {
+            "ref": "Floor 1/Rec Room/Weight Station",
+            "name": "Rec Room Weight Station"
+          },
+          {
+            "ref": "Floor 1/Rec Room/Drawer",
+            "name": "Rec Room Drawer"
+          },
+          {
+            "ref": "Floor 1/Rec Room/Rear Bicycle",
+            "name": "Rec Room Rear Bicycle"
+          },
+          {
+            "ref": "Floor 1/Rec Room/SW Crest",
+            "name": "Rec Room SW Crest"
+          },
+          {
+            "ref": "Floor 1/Rec Room/NW Crest",
+            "name": "Rec Room NW Crest"
+          },
+          {
+            "ref": "Floor 1/Rec Room/SE Crest",
+            "name": "Rec Room SE Crest"
+          },
+          {
+            "ref": "Floor 1/Rec Room/NE Crest",
+            "name": "Rec Room NE Crest"
+          },
+          {
+            "ref": "Floor 1/Rec Room/L Sandbag",
+            "name": "Rec Room L Sandbag"
+          },
+          {
+            "ref": "Floor 1/Rec Room/R Sandbag",
+            "name": "Rec Room R Sandbag"
+          },
+          {
+            "ref": "Floor 1/Rec Room/C Sandbag",
+            "name": "Rec Room C Sandbag"
+          },
+          {
+            "ref": "Floor 1/Rec Room/L Ceiling Light",
+            "name": "Rec Room L Ceiling Light"
+          },
+          {
+            "ref": "Floor 1/Rec Room/R Ceiling Light",
+            "name": "Rec Room R Ceiling Light"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/Slim's Pool Table (Billiards Room)",
+            "name": "Slim's Pool Table (Billiards Room)"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/Chess Table",
+            "name": "Billiards Room Chess Table"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/C Chair",
+            "name": "Billiards Room C Chair"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/L Chair",
+            "name": "Billiards Room L Chair"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/R Chair",
+            "name": "Billiards Room R Chair"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/L Portrait (near Chest)",
+            "name": "Billiards Room L Portrait (near Chest)"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/L Portrait (near Dart Board)",
+            "name": "Billiards Room L Portrait (near Dart Board)"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/C Portrait",
+            "name": "Billiards Room C Portrait"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/R Portrait",
+            "name": "Billiards Room R Portrait"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/Dart Board",
+            "name": "Billiards Room Dart Board"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/End Table (near Chest)",
+            "name": "Billiards Room End Table (near Chest)"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/End Table (near Dart Board)",
+            "name": "Billiards Room End Table (near Dart Board)"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/Ceiling Fan",
+            "name": "Billiards Room Ceiling Fan"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/Table Drinks (near Chest)",
+            "name": "Billiards Room Table Drinks (near Chest)"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/Table Drinks (near Dart Board)",
+            "name": "Billiards Room Table Drinks (near Dart Board)"
+          },
+          {
+            "ref": "Floor 1/Projection Room/Cabinet",
+            "name": "Projection Room Cabinet"
+          },
+          {
+            "ref": "Floor 1/Projection Room/Projector",
+            "name": "Projection Room Projector"
+          },
+          {
+            "ref": "Floor 1/Projection Room/Projector Table",
+            "name": "Projection Room Projector Table"
+          },
+          {
+            "ref": "Floor 1/Projection Room/L Ceiling Light",
+            "name": "Projection Room L Ceiling Light"
+          },
+          {
+            "ref": "Floor 1/Projection Room/R Ceiling Light",
+            "name": "Projection Room R Ceiling Light"
+          },
+          {
+            "ref": "Floor 1/Projection Room/L Speaker",
+            "name": "Projection Room L Speaker"
+          },
+          {
+            "ref": "Floor 1/Projection Room/R Speaker",
+            "name": "Projection Room R Speaker"
+          },
+          {
+            "ref": "Floor 1/Projection Room/Projection Screen",
+            "name": "Projection Room Projection Screen"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Speedy Spirit",
+            "name": "Storage Room Speedy Spirit"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Speedy Spirit",
+            "name": "Hidden Room Speedy Spirit"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Speedy Spirit",
+            "name": "Conservatory Speedy Spirit"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Speedy Spirit",
+            "name": "Dining Room Speedy Spirit"
+          },
+          {
+            "ref": "Floor 1/Kitchen/Speedy Spirit",
+            "name": "Kitchen Speedy Spirit"
+          },
+          {
+            "ref": "Floor 1/Rec Room/Speedy Spirit",
+            "name": "Rec Room Speedy Spirit"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/Speedy Spirit",
+            "name": "Billiards Room Speedy Spirit"
+          },
+          {
+            "ref": "Floor 1/Whirlindas/The Floating Whirlindas",
+            "name": "The Floating Whirlindas"
+          },
+          {
+            "ref": "Floor 1/Butler/Shivers, the Wandering Butler",
+            "name": "Shivers, the Wandering Butler"
+          },
+          {
+            "ref": "Floor 1/Clairvoya/Madame Clairvoya, the Freaky Fortune-Teller",
+            "name": "Madame Clairvoya, the Freaky Fortune-Teller"
+          },
+          {
+            "ref": "Floor 1/Melody/Pianissima, the Beautiful Pianist",
+            "name": "Melody Pianissima, the Beautiful Pianist"
+          },
+          {
+            "ref": "Floor 1/Luggs/Mr. Luggs, the Glutton",
+            "name": "Mr. Luggs, the Glutton"
+          },
+          {
+            "ref": "Floor 1/Spooky/Spooky, the Guard Dog",
+            "name": "Spooky, the Guard Dog"
+          },
+          {
+            "ref": "Floor 1/Bogmire/Bogmire, the Cemetary Shadow",
+            "name": "Bogmire, the Cemetary Shadow"
+          },
+          {
+            "ref": "Floor 1/Biff/Atlas, the Bodybuilder",
+            "name": "Biff Atlas, the Bodybuilder"
+          },
+          {
+            "ref": "Floor 1/Slim/Bankshot, the Lonely Poolshark",
+            "name": "Slim Bankshot, the Lonely Poolshark"
+          },
+          {
+            "ref": "Floor 1/Laundry Room/Light On",
+            "name": "Laundry Room Light On"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Light On",
+            "name": "Butler's Room Light On"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Light On",
+            "name": "Hidden Room Light On"
+          },
+          {
+            "ref": "Floor 1/Fortune-Teller's Room/Light On",
+            "name": "Fortune-Teller's Room Light On"
+          },
+          {
+            "ref": "Floor 1/Mirror Room/Light On",
+            "name": "Mirror Room Light On"
+          },
+          {
+            "ref": "Floor 1/Ballroom/Light On",
+            "name": "Ballroom Light On"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Light On",
+            "name": "Storage Room Light On"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Light On",
+            "name": "Dining Room Light On"
+          },
+          {
+            "ref": "Floor 1/Kitchen/Light On",
+            "name": "Kitchen Light On"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Light On",
+            "name": "Conservatory Light On"
+          },
+          {
+            "ref": "Floor 1/Rec Room/Light On",
+            "name": "Rec Room Light On"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/Light On",
+            "name": "Billiards Room Light On"
+          },
+          {
+            "ref": "Floor 1/Projection Room/Light On",
+            "name": "Projection Room Light On"
+          },
+          {
+            "ref": "Floor 1/Foyer/Light On",
+            "name": "Foyer Light On"
+          },
+          {
+            "ref": "Floor 1/1F Hallway/Light On",
+            "name": "1F Hallway Light On"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Light On",
+            "name": "1F Washroom Light On"
+          },
+          {
+            "ref": "Floor 1/1F Bathroom/Light On",
+            "name": "1F Bathroom Light On"
+          },
+          {
+            "ref": "Floor 1/Boneyard/Light On",
+            "name": "Boneyard Light On"
+          },
+          {
+            "ref": "Floor 1/Graveyard/Light On",
+            "name": "Graveyard Light On"
+          },
+          {
+            "ref": "Floor 1/Courtyard/Light On",
+            "name": "Courtyard Light On"
+          },
+          {
+            "ref": "Floor 1/Laundry Room/Visited",
+            "name": "Laundry Room Visited"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Visited",
+            "name": "Butler's Room Visited"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Visited",
+            "name": "Hidden Room Visited"
+          },
+          {
+            "ref": "Floor 1/Fortune-Teller's Room/Visited",
+            "name": "Fortune-Teller's Room Visited"
+          },
+          {
+            "ref": "Floor 1/Mirror Room/Visited",
+            "name": "Mirror Room Visited"
+          },
+          {
+            "ref": "Floor 1/Ballroom/Visited",
+            "name": "Ballroom Visited"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Visited",
+            "name": "Storage Room Visited"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Visited",
+            "name": "Dining Room Visited"
+          },
+          {
+            "ref": "Floor 1/Kitchen/Visited",
+            "name": "Kitchen Visited"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Visited",
+            "name": "Conservatory Visited"
+          },
+          {
+            "ref": "Floor 1/Rec Room/Visited",
+            "name": "Rec Room Visited"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/Visited",
+            "name": "Billiards Room Visited"
+          },
+          {
+            "ref": "Floor 1/Projection Room/Visited",
+            "name": "Projection Room Visited"
+          },
+          {
+            "ref": "Floor 1/Foyer/Visited",
+            "name": "Foyer Visited"
+          },
+          {
+            "ref": "Floor 1/1F Hallway/Visited",
+            "name": "1F Hallway Visited"
+          },
+          {
+            "ref": "Floor 1/1F Washroom/Visited",
+            "name": "1F Washroom Visited"
+          },
+          {
+            "ref": "Floor 1/1F Bathroom/Visited",
+            "name": "1F Bathroom Visited"
+          },
+          {
+            "ref": "Floor 1/Boneyard/Visited",
+            "name": "Boneyard Visited"
+          },
+          {
+            "ref": "Floor 1/Graveyard/Visited",
+            "name": "Graveyard Visited"
+          },
+          {
+            "ref": "Floor 1/Courtyard/Visited",
+            "name": "Courtyard Visited"
+          },
+          {
+            "ref": "Floor 1/Laundry Room/Boo",
+            "name": "Laundry Room Boo"
+          },
+          {
+            "ref": "Floor 1/Butler's Room/Boo",
+            "name": "Butler's Room Boo"
+          },
+          {
+            "ref": "Floor 1/Hidden Room/Boo",
+            "name": "Hidden Room Boo"
+          },
+          {
+            "ref": "Floor 1/Fortune-Teller's Room/Boo",
+            "name": "Fortune-Teller's Room Boo"
+          },
+          {
+            "ref": "Floor 1/Mirror Room/Boo",
+            "name": "Mirror Room Boo"
+          },
+          {
+            "ref": "Floor 1/Ballroom/Boo",
+            "name": "Ballroom Boo"
+          },
+          {
+            "ref": "Floor 1/Storage Room/Boo",
+            "name": "Storage Room Boo"
+          },
+          {
+            "ref": "Floor 1/Dining Room/Boo",
+            "name": "Dining Room Boo"
+          },
+          {
+            "ref": "Floor 1/Kitchen/Boo",
+            "name": "Kitchen Boo"
+          },
+          {
+            "ref": "Floor 1/Conservatory/Boo",
+            "name": "Conservatory Boo"
+          },
+          {
+            "ref": "Floor 1/Rec Room/Boo",
+            "name": "Rec Room Boo"
+          },
+          {
+            "ref": "Floor 1/Billiards Room/Boo",
+            "name": "Billiards Room Boo"
+          },
+          {
+            "ref": "Floor 1/Projection Room/Boo",
+            "name": "Projection Room Boo"
+          }
+        ]
+      },
+      {
+        "name": "Floor 2",
+        "sections": [
+          {
+            "ref": "Floor 2/Observatory/Mario Star",
+            "name": "Observatory Mario Star"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/NW Shelf Chest",
+            "name": "Sealed Room NW Shelf Chest"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/NE Shelf Chest",
+            "name": "Sealed Room NE Shelf Chest"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/SW Shelf Chest",
+            "name": "Sealed Room SW Shelf Chest"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/SE Shelf Chest",
+            "name": "Sealed Room SE Shelf Chest"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/Table Chest",
+            "name": "Sealed Room Table Chest"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/Upper L Big Chest",
+            "name": "Sealed Room Upper L Big Chest"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/Upper R Big Chest",
+            "name": "Sealed Room Upper R Big Chest"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Shelf Key",
+            "name": "Wardrobe Shelf Key"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Clear Chest",
+            "name": "Tea Room Clear Chest"
+          },
+          {
+            "ref": "Floor 2/2F Washroom/Clear Chest",
+            "name": "2F Washroom Clear Chest"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/Clear Chest",
+            "name": "Sealed Room Clear Chest"
+          },
+          {
+            "ref": "Floor 2/Guest Room/Clear Chest",
+            "name": "Guest Room Clear Chest"
+          },
+          {
+            "ref": "Floor 2/Parlor/Clear Chest",
+            "name": "Parlor Clear Chest"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Clear Chest",
+            "name": "Twins' Room Clear Chest"
+          },
+          {
+            "ref": "Floor 2/2F Bathroom/Clear Chest",
+            "name": "2F Bathroom Clear Chest"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Clear Chest",
+            "name": "Nana's Room Clear Chest"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Clear Chest",
+            "name": "Wardrobe Clear Chest"
+          },
+          {
+            "ref": "Floor 2/Study/Clear Chest",
+            "name": "Study Clear Chest"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Clear Chest",
+            "name": "Master Bedroom Clear Chest"
+          },
+          {
+            "ref": "Floor 2/Nursery/Clear Chest",
+            "name": "Nursery Clear Chest"
+          },
+          {
+            "ref": "Floor 2/Wardrobe Balcony/Toad",
+            "name": "Wardrobe Balcony Toad"
+          },
+          {
+            "ref": "Floor 2/Wardrobe Balcony/Plant R (near Door)",
+            "name": "Wardrobe Balcony Plant R (near Door)"
+          },
+          {
+            "ref": "Floor 2/Wardrobe Balcony/Plant L (next to Toad)",
+            "name": "Wardrobe Balcony Plant L (next to Toad)"
+          },
+          {
+            "ref": "Floor 2/Wardrobe Balcony/Plant C",
+            "name": "Wardrobe Balcony Plant C"
+          },
+          {
+            "ref": "Floor 2/Wardrobe Balcony/Plant L (in Corner)",
+            "name": "Wardrobe Balcony Plant L (in Corner)"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Plant",
+            "name": "Master Bedroom Plant"
+          },
+          {
+            "ref": "Floor 2/Sitting Room/Plant",
+            "name": "Sitting Room Plant"
+          },
+          {
+            "ref": "Floor 2/Guest Room/Plant",
+            "name": "Guest Room Plant"
+          },
+          {
+            "ref": "Floor 2/Parlor/Chair",
+            "name": "Parlor Chair"
+          },
+          {
+            "ref": "Floor 2/Parlor/Wine Table",
+            "name": "Parlor Wine Table"
+          },
+          {
+            "ref": "Floor 2/Parlor/Couch",
+            "name": "Parlor Couch"
+          },
+          {
+            "ref": "Floor 2/Parlor/Table",
+            "name": "Parlor Table"
+          },
+          {
+            "ref": "Floor 2/Parlor/Chandelier",
+            "name": "Parlor Chandelier"
+          },
+          {
+            "ref": "Floor 2/Parlor/China Cabinet",
+            "name": "Parlor China Cabinet"
+          },
+          {
+            "ref": "Floor 2/Parlor/Book Hutch",
+            "name": "Parlor Book Hutch"
+          },
+          {
+            "ref": "Floor 2/Parlor/Green Lamp",
+            "name": "Parlor Green Lamp"
+          },
+          {
+            "ref": "Floor 2/Parlor/Table Candle",
+            "name": "Parlor Table Candle"
+          },
+          {
+            "ref": "Floor 2/Parlor/West Three Candles",
+            "name": "Parlor West Three Candles"
+          },
+          {
+            "ref": "Floor 2/Parlor/East Three Candles",
+            "name": "Parlor East Three Candles"
+          },
+          {
+            "ref": "Floor 2/Parlor/End Table",
+            "name": "Parlor End Table"
+          },
+          {
+            "ref": "Floor 2/Parlor/Painting L (closer to 4th Wall)",
+            "name": "Parlor Painting L (closer to 4th Wall)"
+          },
+          {
+            "ref": "Floor 2/Parlor/Painting L (near China Cabinet)",
+            "name": "Parlor Painting L (near China Cabinet)"
+          },
+          {
+            "ref": "Floor 2/Parlor/Center Painting",
+            "name": "Parlor Center Painting"
+          },
+          {
+            "ref": "Floor 2/Parlor/Painting R (near Anteroom Door)",
+            "name": "Parlor Painting R (near Anteroom Door)"
+          },
+          {
+            "ref": "Floor 2/Parlor/Painting R (closer to 4th Wall)",
+            "name": "Parlor Painting R (closer to 4th Wall)"
+          },
+          {
+            "ref": "Floor 2/Anteroom/R End Table",
+            "name": "Anteroom R End Table"
+          },
+          {
+            "ref": "Floor 2/Anteroom/C End Table",
+            "name": "Anteroom C End Table"
+          },
+          {
+            "ref": "Floor 2/Anteroom/L End Table",
+            "name": "Anteroom L End Table"
+          },
+          {
+            "ref": "Floor 2/Anteroom/R Chandelier",
+            "name": "Anteroom R Chandelier"
+          },
+          {
+            "ref": "Floor 2/Anteroom/L Chandelier",
+            "name": "Anteroom L Chandelier"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Chandelier",
+            "name": "Wardrobe Chandelier"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Shoe Rack",
+            "name": "Wardrobe Shoe Rack"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Hat Stand",
+            "name": "Wardrobe Hat Stand"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Mirror",
+            "name": "Wardrobe Mirror"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Center Dresser",
+            "name": "Wardrobe Center Dresser"
+          },
+          {
+            "ref": "Floor 2/Wardrobe Balcony/Brazier",
+            "name": "Wardrobe Balcony Brazier"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Purple Dress",
+            "name": "Wardrobe Purple Dress"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Red Dress",
+            "name": "Wardrobe Red Dress"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Blue Shirt",
+            "name": "Wardrobe Blue Shirt"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Brown Suit",
+            "name": "Wardrobe Brown Suit"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Black Shirt",
+            "name": "Wardrobe Black Shirt"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Green Jacket",
+            "name": "Wardrobe Green Jacket"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Yellow Dress",
+            "name": "Wardrobe Yellow Dress"
+          },
+          {
+            "ref": "Floor 2/Study/Lamp",
+            "name": "Study Lamp"
+          },
+          {
+            "ref": "Floor 2/Study/Hat Rack",
+            "name": "Study Hat Rack"
+          },
+          {
+            "ref": "Floor 2/Study/Chandelier",
+            "name": "Study Chandelier"
+          },
+          {
+            "ref": "Floor 2/Study/Bottled Ship",
+            "name": "Study Bottled Ship"
+          },
+          {
+            "ref": "Floor 2/Study/Desk",
+            "name": "Study Desk"
+          },
+          {
+            "ref": "Floor 2/Study/Chair",
+            "name": "Study Chair"
+          },
+          {
+            "ref": "Floor 2/Study/Book (on Desk closer to Door)",
+            "name": "Study Book (on Desk closer to Door)"
+          },
+          {
+            "ref": "Floor 2/Study/Book (on Desk closer to Bookshelves)",
+            "name": "Study Book (on Desk closer to Bookshelves)"
+          },
+          {
+            "ref": "Floor 2/Study/Painting L (closer to 4th Wall)",
+            "name": "Study Painting L (closer to 4th Wall)"
+          },
+          {
+            "ref": "Floor 2/Study/Painting L (near Bookshelves)",
+            "name": "Study Painting L (near Bookshelves)"
+          },
+          {
+            "ref": "Floor 2/Study/Painting R (near Bookshelves)",
+            "name": "Study Painting R (near Bookshelves)"
+          },
+          {
+            "ref": "Floor 2/Study/Painting R (closer to 4th Wall)",
+            "name": "Study Painting R (closer to 4th Wall)"
+          },
+          {
+            "ref": "Floor 2/Study/Bookshelf (far left)",
+            "name": "Study Bookshelf (far left)"
+          },
+          {
+            "ref": "Floor 2/Study/Bookshelf (second from left)",
+            "name": "Study Bookshelf (second from left)"
+          },
+          {
+            "ref": "Floor 2/Study/Bookshelf (third from left)",
+            "name": "Study Bookshelf (third from left)"
+          },
+          {
+            "ref": "Floor 2/Study/Bookshelf (third from right)",
+            "name": "Study Bookshelf (third from right)"
+          },
+          {
+            "ref": "Floor 2/Study/Bookshelf (second from right)",
+            "name": "Study Bookshelf (second from right)"
+          },
+          {
+            "ref": "Floor 2/Study/Bookshelf (far right)",
+            "name": "Study Bookshelf (far right)"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Bed",
+            "name": "Master Bedroom Bed"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Dresser",
+            "name": "Master Bedroom Dresser"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Stool",
+            "name": "Master Bedroom Stool"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Lydia's Vanity (Master Bedroom)",
+            "name": "Lydia's Vanity (Master Bedroom)"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/End Table",
+            "name": "Master Bedroom End Table"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Ceiling Fan",
+            "name": "Master Bedroom Ceiling Fan"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Painting L",
+            "name": "Master Bedroom Painting L"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Painting R (near Window)",
+            "name": "Master Bedroom Painting R (near Window)"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Painting R (closer to 4th Wall)",
+            "name": "Master Bedroom Painting R (closer to 4th Wall)"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Lamp",
+            "name": "Master Bedroom Lamp"
+          },
+          {
+            "ref": "Floor 2/Nursery/Vase",
+            "name": "Nursery Vase"
+          },
+          {
+            "ref": "Floor 2/Nursery/Chauncey's Crib (Nursery)",
+            "name": "Chauncey's Crib (Nursery)"
+          },
+          {
+            "ref": "Floor 2/Nursery/Heart Dresser",
+            "name": "Nursery Heart Dresser"
+          },
+          {
+            "ref": "Floor 2/Nursery/Chair L",
+            "name": "Nursery Chair L"
+          },
+          {
+            "ref": "Floor 2/Nursery/Chair R",
+            "name": "Nursery Chair R"
+          },
+          {
+            "ref": "Floor 2/Nursery/Table",
+            "name": "Nursery Table"
+          },
+          {
+            "ref": "Floor 2/Nursery/Toy Blocks R (closer to Door)",
+            "name": "Nursery Toy Blocks R (closer to Door)"
+          },
+          {
+            "ref": "Floor 2/Nursery/Toy Blocks R (closer to 4th Wall)",
+            "name": "Nursery Toy Blocks R (closer to 4th Wall)"
+          },
+          {
+            "ref": "Floor 2/Nursery/Wall Picture",
+            "name": "Nursery Wall Picture"
+          },
+          {
+            "ref": "Floor 2/Nursery/Picture R (closer to Door)",
+            "name": "Nursery Picture R (closer to Door)"
+          },
+          {
+            "ref": "Floor 2/Nursery/Picture R (closer to 4th Wall)",
+            "name": "Nursery Picture R (closer to 4th Wall)"
+          },
+          {
+            "ref": "Floor 2/Nursery/Ceiling Lamp",
+            "name": "Nursery Ceiling Lamp"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Tennis Rackets",
+            "name": "Twins' Room Tennis Rackets"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Dartboard",
+            "name": "Twins' Room Dartboard"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Star Light",
+            "name": "Twins' Room Star Light"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Toy Train",
+            "name": "Twins' Room Toy Train"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Toy Car",
+            "name": "Twins' Room Toy Car"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Desk",
+            "name": "Twins' Room Desk"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Picture L (farthest from Globe)",
+            "name": "Twins' Room Picture L (farthest from Globe)"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Picture L (closest to Globe)",
+            "name": "Twins' Room Picture L (closest to Globe)"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Chair L (closest to 4th Wall)",
+            "name": "Twins' Room Chair L (closest to 4th Wall)"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Chair L (farthest from Desk)",
+            "name": "Twins' Room Chair L (farthest from Desk)"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Toy Truck",
+            "name": "Twins' Room Toy Truck"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Dresser",
+            "name": "Twins' Room Dresser"
+          },
+          {
+            "ref": "Floor 2/2F Stairwell/Ceiling Light",
+            "name": "2F Stairwell Ceiling Light"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Ice Bucket",
+            "name": "Tea Room Ice Bucket"
+          },
+          {
+            "ref": "Floor 2/Tea Room/L Tea Set",
+            "name": "Tea Room L Tea Set"
+          },
+          {
+            "ref": "Floor 2/Tea Room/R Tea Set",
+            "name": "Tea Room R Tea Set"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Chair (left table, left side near Door)",
+            "name": "Tea Room Chair (left table, left side near Door)"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Chair (left table, right side near Door)",
+            "name": "Tea Room Chair (left table, right side near Door)"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Chair (right table, left side near Door)",
+            "name": "Tea Room Chair (right table, left side near Door)"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Chair (right table, right side near Door)",
+            "name": "Tea Room Chair (right table, right side near Door)"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Chair (right table, right side near Window)",
+            "name": "Tea Room Chair (right table, right side near Window)"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Chair (right table, left side near Window)",
+            "name": "Tea Room Chair (right table, left side near Window)"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Chair (left table, right side near Window)",
+            "name": "Tea Room Chair (left table, right side near Window)"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Chair (left table, left side near Window)",
+            "name": "Tea Room Chair (left table, left side near Window)"
+          },
+          {
+            "ref": "Floor 2/Tea Room/L Stored China",
+            "name": "Tea Room L Stored China"
+          },
+          {
+            "ref": "Floor 2/Tea Room/R Stored China",
+            "name": "Tea Room R Stored China"
+          },
+          {
+            "ref": "Floor 2/Tea Room/L Drawers",
+            "name": "Tea Room L Drawers"
+          },
+          {
+            "ref": "Floor 2/Tea Room/R Drawers",
+            "name": "Tea Room R Drawers"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Chandelier",
+            "name": "Tea Room Chandelier"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Tea Box",
+            "name": "Tea Room Tea Box"
+          },
+          {
+            "ref": "Floor 2/Tea Room/L Candlestick",
+            "name": "Tea Room L Candlestick"
+          },
+          {
+            "ref": "Floor 2/2F Rear Hallway/Picture",
+            "name": "2F Rear Hallway Picture"
+          },
+          {
+            "ref": "Floor 2/2F Rear Hallway/Vase L",
+            "name": "2F Rear Hallway Vase L"
+          },
+          {
+            "ref": "Floor 2/2F Rear Hallway/Vase R",
+            "name": "2F Rear Hallway Vase R"
+          },
+          {
+            "ref": "Floor 2/2F Rear Hallway/Vase 3",
+            "name": "2F Rear Hallway Vase 3"
+          },
+          {
+            "ref": "Floor 2/2F Rear Hallway/Vase 4",
+            "name": "2F Rear Hallway Vase 4"
+          },
+          {
+            "ref": "Floor 2/2F Rear Hallway/Vase 5",
+            "name": "2F Rear Hallway Vase 5"
+          },
+          {
+            "ref": "Floor 2/2F Rear Hallway/Vase 6",
+            "name": "2F Rear Hallway Vase 6"
+          },
+          {
+            "ref": "Floor 2/2F Washroom/Water Tank (above Toilet)",
+            "name": "2F Washroom Water Tank (above Toilet)"
+          },
+          {
+            "ref": "Floor 2/2F Washroom/Mirror",
+            "name": "2F Washroom Mirror"
+          },
+          {
+            "ref": "Floor 2/2F Washroom/Shelf",
+            "name": "2F Washroom Shelf"
+          },
+          {
+            "ref": "Floor 2/2F Washroom/Radiator",
+            "name": "2F Washroom Radiator"
+          },
+          {
+            "ref": "Floor 2/2F Washroom/Picture",
+            "name": "2F Washroom Picture"
+          },
+          {
+            "ref": "Floor 2/2F Washroom/Toilet Paper",
+            "name": "2F Washroom Toilet Paper"
+          },
+          {
+            "ref": "Floor 2/2F Washroom/Light",
+            "name": "2F Washroom Light"
+          },
+          {
+            "ref": "Floor 2/2F Washroom/Sink",
+            "name": "2F Washroom Sink"
+          },
+          {
+            "ref": "Floor 2/Petunia's/Bathtub",
+            "name": "Petunia's Bathtub"
+          },
+          {
+            "ref": "Floor 2/2F Bathroom/Sink",
+            "name": "2F Bathroom Sink"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Spinning Wheel",
+            "name": "Nana's Room Spinning Wheel"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Sewing Machine",
+            "name": "Nana's Room Sewing Machine"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Dresser",
+            "name": "Nana's Room Dresser"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Loveseat",
+            "name": "Nana's Room Loveseat"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Chair",
+            "name": "Nana's Room Chair"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Coffee Table",
+            "name": "Nana's Room Coffee Table"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Chandelier",
+            "name": "Nana's Room Chandelier"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Books",
+            "name": "Nana's Room Books"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Shelf Photos",
+            "name": "Nana's Room Shelf Photos"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Shelf Clock",
+            "name": "Nana's Room Shelf Clock"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Shelf Pots",
+            "name": "Nana's Room Shelf Pots"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Painting",
+            "name": "Nana's Room Painting"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Nana's Yarn Balls (Nana's Room)",
+            "name": "Nana's Yarn Balls (Nana's Room)"
+          },
+          {
+            "ref": "Floor 2/Astral Hall/Right Dresser",
+            "name": "Astral Hall Right Dresser"
+          },
+          {
+            "ref": "Floor 2/Astral Hall/Left Dresser",
+            "name": "Astral Hall Left Dresser"
+          },
+          {
+            "ref": "Floor 2/Astral Hall/Chandelier",
+            "name": "Astral Hall Chandelier"
+          },
+          {
+            "ref": "Floor 2/Astral Hall/North Candlabra",
+            "name": "Astral Hall North Candlabra"
+          },
+          {
+            "ref": "Floor 2/Astral Hall/East Candlabra",
+            "name": "Astral Hall East Candlabra"
+          },
+          {
+            "ref": "Floor 2/Astral Hall/West Candlabra",
+            "name": "Astral Hall West Candlabra"
+          },
+          {
+            "ref": "Floor 2/Astral Hall/SW Candlabra",
+            "name": "Astral Hall SW Candlabra"
+          },
+          {
+            "ref": "Floor 2/Astral Hall/SE Candlabra",
+            "name": "Astral Hall SE Candlabra"
+          },
+          {
+            "ref": "Floor 2/Observatory/Dresser",
+            "name": "Observatory Dresser"
+          },
+          {
+            "ref": "Floor 2/Observatory/Chair",
+            "name": "Observatory Chair"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/Chandelier",
+            "name": "Sealed Room Chandelier"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/Mirror",
+            "name": "Sealed Room Mirror"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/Picture",
+            "name": "Sealed Room Picture"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/Table",
+            "name": "Sealed Room Table"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/L Plate",
+            "name": "Sealed Room L Plate"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/R Plate",
+            "name": "Sealed Room R Plate"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/L Mantle Candles",
+            "name": "Sealed Room L Mantle Candles"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/R Mantle Candles",
+            "name": "Sealed Room R Mantle Candles"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/L Table Candles",
+            "name": "Sealed Room L Table Candles"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/R Table Candles",
+            "name": "Sealed Room R Table Candles"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/L Trophy",
+            "name": "Sealed Room L Trophy"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/R Rear Trophy",
+            "name": "Sealed Room R Rear Trophy"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/R Middle Trophy",
+            "name": "Sealed Room R Middle Trophy"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/R Front Trophy",
+            "name": "Sealed Room R Front Trophy"
+          },
+          {
+            "ref": "Floor 2/Sitting Room/Hat Stand",
+            "name": "Sitting Room Hat Stand"
+          },
+          {
+            "ref": "Floor 2/Sitting Room/Water Pot",
+            "name": "Sitting Room Water Pot"
+          },
+          {
+            "ref": "Floor 2/Sitting Room/Couch",
+            "name": "Sitting Room Couch"
+          },
+          {
+            "ref": "Floor 2/Sitting Room/Chair",
+            "name": "Sitting Room Chair"
+          },
+          {
+            "ref": "Floor 2/Sitting Room/Table",
+            "name": "Sitting Room Table"
+          },
+          {
+            "ref": "Floor 2/Sitting Room/Picture",
+            "name": "Sitting Room Picture"
+          },
+          {
+            "ref": "Floor 2/Guest Room/Chair",
+            "name": "Guest Room Chair"
+          },
+          {
+            "ref": "Floor 2/Guest Room/Sue Pea's Bed (Guest Room)",
+            "name": "Sue Pea's Bed (Guest Room)"
+          },
+          {
+            "ref": "Floor 2/Guest Room/Vanity",
+            "name": "Guest Room Vanity"
+          },
+          {
+            "ref": "Floor 2/Guest Room/End Table",
+            "name": "Guest Room End Table"
+          },
+          {
+            "ref": "Floor 2/Guest Room/Painting",
+            "name": "Guest Room Painting"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Speedy Spirit",
+            "name": "Wardrobe Speedy Spirit"
+          },
+          {
+            "ref": "Floor 2/Study/Speedy Spirit",
+            "name": "Study Speedy Spirit"
+          },
+          {
+            "ref": "Floor 2/Nursery/Speedy Spirit",
+            "name": "Nursery Speedy Spirit"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Speedy Spirit",
+            "name": "Nana's Room Speedy Spirit"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Speedy Spirit",
+            "name": "Twins' Room Speedy Spirit"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/Speedy Spirit",
+            "name": "Sealed Room Speedy Spirit"
+          },
+          {
+            "ref": "Floor 2/Neville/Neville, the Bookish Father",
+            "name": "Neville, the Bookish Father"
+          },
+          {
+            "ref": "Floor 2/Lydia/Lydia, the Mirror-Gazing Mother",
+            "name": "Lydia, the Mirror-Gazing Mother"
+          },
+          {
+            "ref": "Floor 2/Chauncey/Chauncey, the Spoiled Baby",
+            "name": "Chauncey, the Spoiled Baby"
+          },
+          {
+            "ref": "Floor 2/Henry and Orville/Henry and Orville, the Twin Brothers",
+            "name": "Henry and Orville, the Twin Brothers"
+          },
+          {
+            "ref": "Floor 2/Petunia/Miss Petunia, the Bathing Beauty",
+            "name": "Miss Petunia, the Bathing Beauty"
+          },
+          {
+            "ref": "Floor 2/Nana/Nana, the Scarf-Knitting Granny",
+            "name": "Nana, the Scarf-Knitting Granny"
+          },
+          {
+            "ref": "Floor 2/Sue/Pea, the Dozing Girl",
+            "name": "Sue Pea, the Dozing Girl"
+          },
+          {
+            "ref": "Floor 2/Grimmly/Uncle Grimmly, Hermit of the Darkness",
+            "name": "Uncle Grimmly, Hermit of the Darkness"
+          },
+          {
+            "ref": "Floor 2/Parlor/Light On",
+            "name": "Parlor Light On"
+          },
+          {
+            "ref": "Floor 2/Anteroom/Light On",
+            "name": "Anteroom Light On"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Light On",
+            "name": "Wardrobe Light On"
+          },
+          {
+            "ref": "Floor 2/Study/Light On",
+            "name": "Study Light On"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Light On",
+            "name": "Master Bedroom Light On"
+          },
+          {
+            "ref": "Floor 2/Nursery/Light On",
+            "name": "Nursery Light On"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Light On",
+            "name": "Twins' Room Light On"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Light On",
+            "name": "Tea Room Light On"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Light On",
+            "name": "Nana's Room Light On"
+          },
+          {
+            "ref": "Floor 2/Sitting Room/Light On",
+            "name": "Sitting Room Light On"
+          },
+          {
+            "ref": "Floor 2/Guest Room/Light On",
+            "name": "Guest Room Light On"
+          },
+          {
+            "ref": "Floor 2/Astral Hall/Light On",
+            "name": "Astral Hall Light On"
+          },
+          {
+            "ref": "Floor 2/Family Hallway/Light On",
+            "name": "Family Hallway Light On"
+          },
+          {
+            "ref": "Floor 2/Wardrobe Balcony/Light On",
+            "name": "Wardrobe Balcony Light On"
+          },
+          {
+            "ref": "Floor 2/2F Stairwell/Light On",
+            "name": "2F Stairwell Light On"
+          },
+          {
+            "ref": "Floor 2/2F - Attic Stairwell/Light On",
+            "name": "2F - Attic Stairwell Light On"
+          },
+          {
+            "ref": "Floor 2/2F Rear Hallway/Light On",
+            "name": "2F Rear Hallway Light On"
+          },
+          {
+            "ref": "Floor 2/2F Washroom/Light On",
+            "name": "2F Washroom Light On"
+          },
+          {
+            "ref": "Floor 2/2F Bathroom/Light On",
+            "name": "2F Bathroom Light On"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/Light On",
+            "name": "Sealed Room Light On"
+          },
+          {
+            "ref": "Floor 2/Parlor/Visited",
+            "name": "Parlor Visited"
+          },
+          {
+            "ref": "Floor 2/Anteroom/Visited",
+            "name": "Anteroom Visited"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Visited",
+            "name": "Wardrobe Visited"
+          },
+          {
+            "ref": "Floor 2/Study/Visited",
+            "name": "Study Visited"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Visited",
+            "name": "Master Bedroom Visited"
+          },
+          {
+            "ref": "Floor 2/Nursery/Visited",
+            "name": "Nursery Visited"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Visited",
+            "name": "Twins' Room Visited"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Visited",
+            "name": "Tea Room Visited"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Visited",
+            "name": "Nana's Room Visited"
+          },
+          {
+            "ref": "Floor 2/Sitting Room/Visited",
+            "name": "Sitting Room Visited"
+          },
+          {
+            "ref": "Floor 2/Guest Room/Visited",
+            "name": "Guest Room Visited"
+          },
+          {
+            "ref": "Floor 2/Astral Hall/Visited",
+            "name": "Astral Hall Visited"
+          },
+          {
+            "ref": "Floor 2/Family Hallway/Visited",
+            "name": "Family Hallway Visited"
+          },
+          {
+            "ref": "Floor 2/Wardrobe Balcony/Visited",
+            "name": "Wardrobe Balcony Visited"
+          },
+          {
+            "ref": "Floor 2/2F Stairwell/Visited",
+            "name": "2F Stairwell Visited"
+          },
+          {
+            "ref": "Floor 2/2F Rear Hallway/Visited",
+            "name": "2F Rear Hallway Visited"
+          },
+          {
+            "ref": "Floor 2/2F Washroom/Visited",
+            "name": "2F Washroom Visited"
+          },
+          {
+            "ref": "Floor 2/2F Bathroom/Visited",
+            "name": "2F Bathroom Visited"
+          },
+          {
+            "ref": "Floor 2/Observatory/Visited",
+            "name": "Observatory Visited"
+          },
+          {
+            "ref": "Floor 2/Sealed Room/Visited",
+            "name": "Sealed Room Visited"
+          },
+          {
+            "ref": "Floor 2/Parlor/Boo",
+            "name": "Parlor Boo"
+          },
+          {
+            "ref": "Floor 2/Anteroom/Boo",
+            "name": "Anteroom Boo"
+          },
+          {
+            "ref": "Floor 2/Wardrobe/Boo",
+            "name": "Wardrobe Boo"
+          },
+          {
+            "ref": "Floor 2/Study/Boo",
+            "name": "Study Boo"
+          },
+          {
+            "ref": "Floor 2/Master Bedroom/Boo",
+            "name": "Master Bedroom Boo"
+          },
+          {
+            "ref": "Floor 2/Nursery/Boo",
+            "name": "Nursery Boo"
+          },
+          {
+            "ref": "Floor 2/Twins' Room/Boo",
+            "name": "Twins' Room Boo"
+          },
+          {
+            "ref": "Floor 2/Tea Room/Boo",
+            "name": "Tea Room Boo"
+          },
+          {
+            "ref": "Floor 2/Nana's Room/Boo",
+            "name": "Nana's Room Boo"
+          },
+          {
+            "ref": "Floor 2/Sitting Room/Boo",
+            "name": "Sitting Room Boo"
+          },
+          {
+            "ref": "Floor 2/Guest Room/Boo",
+            "name": "Guest Room Boo"
+          },
+          {
+            "ref": "Floor 2/Astral Hall/Boo",
+            "name": "Astral Hall Boo"
+          }
+        ]
+      },
+      {
+        "name": "Floor 3",
+        "sections": [
+          {
+            "ref": "Floor 3/Armory/Gray Chest (left, back Wall)",
+            "name": "Armory Gray Chest (left, back Wall)"
+          },
+          {
+            "ref": "Floor 3/Armory/Gray Chest (middle, back Wall)",
+            "name": "Armory Gray Chest (middle, back Wall)"
+          },
+          {
+            "ref": "Floor 3/Armory/Gray Chest (right, back Wall)",
+            "name": "Armory Gray Chest (right, back Wall)"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/R2 Chest",
+            "name": "Telephone Room R2 Chest"
+          },
+          {
+            "ref": "Floor 3/Safari Room/Clear Chest",
+            "name": "Safari Room Clear Chest"
+          },
+          {
+            "ref": "Floor 3/Armory/Clear Chest",
+            "name": "Armory Clear Chest"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/Clear Chest",
+            "name": "Telephone Room Clear Chest"
+          },
+          {
+            "ref": "Floor 3/Artist's Studio/Van Gore's Painting (Artist's Studio)",
+            "name": "Van Gore's Painting (Artist's Studio)"
+          },
+          {
+            "ref": "Floor 3/Balcony/Clear Chest",
+            "name": "Balcony Clear Chest"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Clear Chest",
+            "name": "Ceramics Studio Clear Chest"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant NW Not Near Bench",
+            "name": "Balcony Plant NW Not Near Bench"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant E Railing",
+            "name": "Balcony Plant E Railing"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant NE Near Bench",
+            "name": "Balcony Plant NE Near Bench"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant NW Corner Near Bench",
+            "name": "Balcony Plant NW Corner Near Bench"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant SW Corner",
+            "name": "Balcony Plant SW Corner"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant NW Corner",
+            "name": "Balcony Plant NW Corner"
+          },
+          {
+            "ref": "Floor 3/Balcony/West Double Plant",
+            "name": "Balcony West Double Plant"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant Center R",
+            "name": "Balcony Plant Center R"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant 5",
+            "name": "Balcony Plant 5"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant SE Corner",
+            "name": "Balcony Plant SE Corner"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant 12",
+            "name": "Balcony Plant 12"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant 11",
+            "name": "Balcony Plant 11"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant 13",
+            "name": "Balcony Plant 13"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant Center L",
+            "name": "Balcony Plant Center L"
+          },
+          {
+            "ref": "Floor 3/Balcony/Plant NE Corner",
+            "name": "Balcony Plant NE Corner"
+          },
+          {
+            "ref": "Floor 3/3F Stairwell/Ceiling Light",
+            "name": "3F Stairwell Ceiling Light"
+          },
+          {
+            "ref": "Floor 3/Safari Room/Chair",
+            "name": "Safari Room Chair"
+          },
+          {
+            "ref": "Floor 3/Safari Room/Top Boxes",
+            "name": "Safari Room Top Boxes"
+          },
+          {
+            "ref": "Floor 3/Safari Room/Bottom Boxes",
+            "name": "Safari Room Bottom Boxes"
+          },
+          {
+            "ref": "Floor 3/Safari Room/L Ceiling Light",
+            "name": "Safari Room L Ceiling Light"
+          },
+          {
+            "ref": "Floor 3/Safari Room/R Ceiling Light",
+            "name": "Safari Room R Ceiling Light"
+          },
+          {
+            "ref": "Floor 3/Safari Room/L Deer Head",
+            "name": "Safari Room L Deer Head"
+          },
+          {
+            "ref": "Floor 3/Safari Room/R Deer Head",
+            "name": "Safari Room R Deer Head"
+          },
+          {
+            "ref": "Floor 3/Safari Room/Leopard Chest Box",
+            "name": "Safari Room Leopard Chest Box"
+          },
+          {
+            "ref": "Floor 3/Balcony/West Bench",
+            "name": "Balcony West Bench"
+          },
+          {
+            "ref": "Floor 3/Balcony/East Bench",
+            "name": "Balcony East Bench"
+          },
+          {
+            "ref": "Floor 3/Balcony/West Statue",
+            "name": "Balcony West Statue"
+          },
+          {
+            "ref": "Floor 3/Balcony/East Statue",
+            "name": "Balcony East Statue"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/Table",
+            "name": "Telephone Room Table"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/Couch",
+            "name": "Telephone Room Couch"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/L Ceiling Light",
+            "name": "Telephone Room L Ceiling Light"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/R Ceiling Light",
+            "name": "Telephone Room R Ceiling Light"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/R Shelf",
+            "name": "Telephone Room R Shelf"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/L Shelf",
+            "name": "Telephone Room L Shelf"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/C Shelf",
+            "name": "Telephone Room C Shelf"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/L Cabinet",
+            "name": "Telephone Room L Cabinet"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/R Cabinet",
+            "name": "Telephone Room R Cabinet"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/R Ceiling Light",
+            "name": "Clockwork Room R Ceiling Light"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/L Ceiling Light",
+            "name": "Clockwork Room L Ceiling Light"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/R Puppet",
+            "name": "Clockwork Room R Puppet"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/L Puppet",
+            "name": "Clockwork Room L Puppet"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/L Chair",
+            "name": "Clockwork Room L Chair"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/R Chair",
+            "name": "Clockwork Room R Chair"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/C Chair",
+            "name": "Clockwork Room C Chair"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/R Stool",
+            "name": "Clockwork Room R Stool"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/L Stool",
+            "name": "Clockwork Room L Stool"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/Bee-Hat Clocks",
+            "name": "Clockwork Room Bee-Hat Clocks"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/Woman-Windmill Clocks",
+            "name": "Clockwork Room Woman-Windmill Clocks"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/Cuckoo Clock",
+            "name": "Clockwork Room Cuckoo Clock"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/Table with Head",
+            "name": "Clockwork Room Table with Head"
+          },
+          {
+            "ref": "Floor 3/Armory/Armor Suit R (top)",
+            "name": "Armory Armor Suit R (top)"
+          },
+          {
+            "ref": "Floor 3/Armory/Armor Suit (middle, right)",
+            "name": "Armory Armor Suit (middle, right)"
+          },
+          {
+            "ref": "Floor 3/Armory/Armor Suit (middle, left)",
+            "name": "Armory Armor Suit (middle, left)"
+          },
+          {
+            "ref": "Floor 3/Armory/Armor Suit (middle, second from left)",
+            "name": "Armory Armor Suit (middle, second from left)"
+          },
+          {
+            "ref": "Floor 3/Armory/Armor Suit L (right side)",
+            "name": "Armory Armor Suit L (right side)"
+          },
+          {
+            "ref": "Floor 3/Armory/Ceiling Light",
+            "name": "Armory Ceiling Light"
+          },
+          {
+            "ref": "Floor 3/Armory/Wall Shield",
+            "name": "Armory Wall Shield"
+          },
+          {
+            "ref": "Floor 3/Armory/Crates (near Ceramics Door)",
+            "name": "Armory Crates (near Ceramics Door)"
+          },
+          {
+            "ref": "Floor 3/Armory/Crates (front left corner)",
+            "name": "Armory Crates (front left corner)"
+          },
+          {
+            "ref": "Floor 3/Armory/Crates (middle left)",
+            "name": "Armory Crates (middle left)"
+          },
+          {
+            "ref": "Floor 3/Armory/Crates (back left corner)",
+            "name": "Armory Crates (back left corner)"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Chair",
+            "name": "Ceramics Studio Chair"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Ceiling Light",
+            "name": "Ceramics Studio Ceiling Light"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Ice Vase",
+            "name": "Ceramics Studio Ice Vase"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Boxes (top, back Wall)",
+            "name": "Ceramics Studio Boxes (top, back Wall)"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Boxes (bottom, back Wall)",
+            "name": "Ceramics Studio Boxes (bottom, back Wall)"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Boxes (left corner near 4th Wall)",
+            "name": "Ceramics Studio Boxes (left corner near 4th Wall)"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Vase (bottom right)",
+            "name": "Ceramics Studio Vase (bottom right)"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Vase (bottom middle)",
+            "name": "Ceramics Studio Vase (bottom middle)"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Vase (bottom left)",
+            "name": "Ceramics Studio Vase (bottom left)"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Vase (bottom more left)",
+            "name": "Ceramics Studio Vase (bottom more left)"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Vase (top more left)",
+            "name": "Ceramics Studio Vase (top more left)"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Vase (top left)",
+            "name": "Ceramics Studio Vase (top left)"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Vase (top middle)",
+            "name": "Ceramics Studio Vase (top middle)"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Vase (top right)",
+            "name": "Ceramics Studio Vase (top right)"
+          },
+          {
+            "ref": "Floor 3/Artist's Studio/Light",
+            "name": "Artist's Studio Light"
+          },
+          {
+            "ref": "Floor 3/Artist's Studio/Stools",
+            "name": "Artist's Studio Stools"
+          },
+          {
+            "ref": "Floor 3/Artist's Studio/Art Supply Shelves",
+            "name": "Artist's Studio Art Supply Shelves"
+          },
+          {
+            "ref": "Floor 3/Artist's Studio/Biff Bust",
+            "name": "Artist's Studio Biff Bust"
+          },
+          {
+            "ref": "Floor 3/Artist's Studio/Brick Pile",
+            "name": "Artist's Studio Brick Pile"
+          },
+          {
+            "ref": "Floor 3/Artist's Studio/Art Piece Shelves",
+            "name": "Artist's Studio Art Piece Shelves"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Boolossus, the Jumbo Ghost",
+            "name": "Boolossus, the Jumbo Ghost"
+          },
+          {
+            "ref": "Floor 3/Jarvis/Jarvis, the Jar Collector",
+            "name": "Jarvis, the Jar Collector"
+          },
+          {
+            "ref": "Floor 3/Soldiers/Clockwork Soldiers, the Toy Platoon",
+            "name": "Clockwork Soldiers, the Toy Platoon"
+          },
+          {
+            "ref": "Floor 3/van Gore/Vincent van Gore, the Starving Artist",
+            "name": "Vincent van Gore, the Starving Artist"
+          },
+          {
+            "ref": "Floor 3/Weston/Sir Weston, the Chilly Climber",
+            "name": "Sir Weston, the Chilly Climber"
+          },
+          {
+            "ref": "Floor 3/Safari Room/Light On",
+            "name": "Safari Room Light On"
+          },
+          {
+            "ref": "Floor 3/Artist's Studio/Light On",
+            "name": "Artist's Studio Light On"
+          },
+          {
+            "ref": "Floor 3/Armory/Light On",
+            "name": "Armory Light On"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Light On",
+            "name": "Ceramics Studio Light On"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/Light On",
+            "name": "Telephone Room Light On"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/Light On",
+            "name": "Clockwork Room Light On"
+          },
+          {
+            "ref": "Floor 3/Balcony/Light On",
+            "name": "Balcony Light On"
+          },
+          {
+            "ref": "Floor 3/East Attic Hallway/Light On",
+            "name": "East Attic Hallway Light On"
+          },
+          {
+            "ref": "Floor 3/West Attic Hallway/Light On",
+            "name": "West Attic Hallway Light On"
+          },
+          {
+            "ref": "Floor 3/Safari Room/Visited",
+            "name": "Safari Room Visited"
+          },
+          {
+            "ref": "Floor 3/Artist's Studio/Visited",
+            "name": "Artist's Studio Visited"
+          },
+          {
+            "ref": "Floor 3/Armory/Visited",
+            "name": "Armory Visited"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Visited",
+            "name": "Ceramics Studio Visited"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/Visited",
+            "name": "Telephone Room Visited"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/Visited",
+            "name": "Clockwork Room Visited"
+          },
+          {
+            "ref": "Floor 3/Balcony/Visited",
+            "name": "Balcony Visited"
+          },
+          {
+            "ref": "Floor 3/East Attic Hallway/Visited",
+            "name": "East Attic Hallway Visited"
+          },
+          {
+            "ref": "Floor 3/West Attic Hallway/Visited",
+            "name": "West Attic Hallway Visited"
+          },
+          {
+            "ref": "Floor 3/Safari Room/Boo",
+            "name": "Safari Room Boo"
+          },
+          {
+            "ref": "Floor 3/Artist's Studio/Boo",
+            "name": "Artist's Studio Boo"
+          },
+          {
+            "ref": "Floor 3/Armory/Boo",
+            "name": "Armory Boo"
+          },
+          {
+            "ref": "Floor 3/Ceramics Studio/Boo",
+            "name": "Ceramics Studio Boo"
+          },
+          {
+            "ref": "Floor 3/Telephone Room/Boo",
+            "name": "Telephone Room Boo"
+          },
+          {
+            "ref": "Floor 3/Clockwork Room/Boo",
+            "name": "Clockwork Room Boo"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 1",
+            "name": "Boolossus Fragment 1"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 2",
+            "name": "Boolossus Fragment 2"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 3",
+            "name": "Boolossus Fragment 3"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 4",
+            "name": "Boolossus Fragment 4"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 5",
+            "name": "Boolossus Fragment 5"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 6",
+            "name": "Boolossus Fragment 6"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 7",
+            "name": "Boolossus Fragment 7"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 8",
+            "name": "Boolossus Fragment 8"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 9",
+            "name": "Boolossus Fragment 9"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 10",
+            "name": "Boolossus Fragment 10"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 11",
+            "name": "Boolossus Fragment 11"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 12",
+            "name": "Boolossus Fragment 12"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 13",
+            "name": "Boolossus Fragment 13"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 14",
+            "name": "Boolossus Fragment 14"
+          },
+          {
+            "ref": "Floor 3/Boolossus/Fragment 15",
+            "name": "Boolossus Fragment 15"
+          }
+        ]
+      },
+      {
+        "name": "Roof",
+        "sections": [
+          {
+            "ref": "Roof/Roof/Clear Chest",
+            "name": "Roof Clear Chest"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (bottom row, furthest left)",
+            "name": "Roof Pillar (bottom row, furthest left)"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (top row, furthest left)",
+            "name": "Roof Pillar (top row, furthest left)"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (bottom row, second from left)",
+            "name": "Roof Pillar (bottom row, second from left)"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (top row, second from left)",
+            "name": "Roof Pillar (top row, second from left)"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (bottom row, third from left)",
+            "name": "Roof Pillar (bottom row, third from left)"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (top row, third from left)",
+            "name": "Roof Pillar (top row, third from left)"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (bottom row, third from right)",
+            "name": "Roof Pillar (bottom row, third from right)"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (top row, third from right)",
+            "name": "Roof Pillar (top row, third from right)"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (bottom row, second from right)",
+            "name": "Roof Pillar (bottom row, second from right)"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (top row, second from right)",
+            "name": "Roof Pillar (top row, second from right)"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (top row, furthest right)",
+            "name": "Roof Pillar (top row, furthest right)"
+          },
+          {
+            "ref": "Roof/Roof/Pillar (bottom row, furthest right)",
+            "name": "Roof Pillar (bottom row, furthest right)"
+          },
+          {
+            "ref": "Roof/Roof/Campfire",
+            "name": "Roof Campfire"
+          },
+          {
+            "ref": "Roof/Roof/Light On",
+            "name": "Roof Light On"
+          },
+          {
+            "ref": "Roof/Roof/Visited",
+            "name": "Roof Visited"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Floor 1",
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "children": [
+      
+    ]
+  },
+  {
+    "name": "Floor 2",
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "children": [
+      
+    ]
+  },
+  {
+    "name": "Floor 3",
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "children": [
+      
+    ]
+  },
+  {
+    "name": "Roof",
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "children": [
+      
+    ]
+  }
+]
